@@ -1,4 +1,5 @@
 # I1
+[![Build Status](https://travis-ci.org/Zhengquan/i1.png?branch=master)](https://travis-ci.org/Zhengquan/i1)
 
 ## I1 Introduction
 ### What Is I1
